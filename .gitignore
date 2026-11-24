@@ -1,0 +1,11 @@
+# compilados
+out/
+*.class
+
+# banco de dados (contém dados financeiros e usuários!)
+*.mv.db
+*.trace.db
+*.lock.db
+
+# driver baixado pelo script
+lib/*.jar
