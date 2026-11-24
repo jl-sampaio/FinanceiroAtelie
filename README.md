@@ -1,4 +1,4 @@
-# Ateliê de Maquiagem — Controle Financeiro
+# Oh! ateliê — Controle Financeiro
 
 Sistema desktop em Java (Swing + H2) para registrar entradas e saídas do ateliê.
 
